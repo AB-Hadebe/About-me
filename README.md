@@ -1,1 +1,2 @@
-# About-me
+I am an upcoming web developer with a foundation in programming from a tertiary institution. I have experience with programming languages like C++, MySQL, and PL/SQL. Currently, I am expanding my skills in Angular using JavaScript, and mastering the fundamentals of HTML, CSS, and Bootstrap. I am enthusiastic about sharing my projects, connecting with like-minded individuals to enhance my skills, and fostering a love for programming. I am also eager to tackle new languages and data-related challenges.
+
